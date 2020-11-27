@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+  <types>
+    <members>Opportunity_Migration_Dashboard</members>
+    <name>WaveDashboard</name>
+  </types>
+  <types>
+    <members>OpportunityMigrationApp</members>
+    <name>WaveApplication</name>
+  </types>
+  <types>
+    <members>OpportunityMigration</members>
+    <name>WaveXmd</name>
+  </types>
+  <types>
+    <members>OpportunityMigration</members>
+    <name>WaveDataset</name>
+  </types>
+    <types>
+    <members>OpportunityMigration</members>
+    <name>WaveDataflow</name>
+  </types>
+  <version>50.0</version>
+</Package>
